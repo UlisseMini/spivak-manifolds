@@ -55,7 +55,7 @@ b. The assumption "$\int_a^b f - \lambda g \ne 0$ for all $\lambda$" and "$f - \
 
 c. There's a natural isomorphism between vectors in $\mathbf{R}^n$ and functions on $[0,1]$ that looks something like this (too lazy to write it down explicitly)
 
-![isomorphism-Rn-C01](./images/isomorphism-Rn-C01.png)
+![](./images/isomorphism-Rn-C01.png)
 
 By "isomorphism" I mean that if $\phi : \mathbf{R}^n \to C[0,1]$ is our isomorphism and $x,y \in \mathbf{R}^n$, then $\langle x,y\rangle = \langle \phi(x), \phi(y)\rangle$ or more explicitly $\sum_{i=1}^n x_iy_i = \int_0^1 \phi[x](t)\phi[y](t)dt$
 
