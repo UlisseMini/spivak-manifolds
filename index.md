@@ -1,3 +1,9 @@
+---
+title: "Calculus on manifolds notes"
+description: "Notes on Spivak's calculus on manifolds"
+author: "Ulisse Mini"
+---
+
 ### Norm and Inner Product
 
 The technique for proving the triangle inequality Spivak used was interesting, basically, if $x,y$ are linearly independent then, for all $\lambda \in \mathbf{R}$
